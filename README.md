@@ -1,4 +1,4 @@
-# A_Palindrome_Checker
+# Palindrome_Checker
 This is a front-end web project. I built this palindrome checker with JavaScript. I wrote a blog post about the project, you can find it on my [medium profile](https://medium.com/@marko.libor/my-first-javascript-project-bd3e08028257).
 
 ## Programming concepts I used
